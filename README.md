@@ -52,7 +52,8 @@ Recentemente fui chamando para trabalhar de forma PJ em uma holding, e fiz parte
 <br/>
 Site da empresa vidalink: https://vidalink.net/ .
 Fui responsável por ajudar com o video de entrada buscar mais rapidez em mobile e a decifrar o codigo, também pelas páginas : serviços, 
-parceiros, contato e projetos, no qual ajudei a realizar a lógica para pegar os pdfs, estilizar os textos, e a criar o conteudo.
+parceiros, contato e projetos, no qual ajudei a realizar a lógica para pegar os pdfs, estilizar, tirar o bug que deixava a págica quebrada,
+e a criar o conteudo para todas elas, menos em projetos, que já haviam.
 
 
 # Resultado final
