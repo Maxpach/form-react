@@ -52,7 +52,7 @@ Fui responsável por ajudar no efeito de entrada pra ter mais aumotização, pel
 e projetos, no qual ajudei a realizar a lógica para pegar os pdfs.
 
 
-# Imagem ilustrada do resoltado final -
+# Resultado final
 ![image](https://user-images.githubusercontent.com/32625973/162633486-65d372cb-bf52-4c5d-86d3-f5e37f970599.png)
 
 # Me dê uma chance !!!
