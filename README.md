@@ -4,11 +4,13 @@ A solução poderia ser feito apenas em React.
 
 # Como instalar de forma local?
 
- 1° -
-Primeiro definir uma IDE, que no meu caso usei VScode, sugiro usar-lo também, vai permirtir que use umas extenções apenas para o react.
+Caso saiba usar o github, basta clonar o meu repositório 
 
-2° -
-Instalado o Node.js, que vai te permitir rodar o projeto pelo o npm.
+Baixar os arquivos e descompactar eles.
+<br/>
+1° - Primeiro definir uma IDE, que no meu caso usei VScode, sugiro usar-lo também, vai permirtir que use umas extenções apenas para o react.
+2° - Instalar o Node.js, que vai te permitir rodar o projeto pelo o npm.
+
 #
 No diretório do projeto, dentro do terminal execute:
 ### `npm start`
@@ -44,12 +46,13 @@ falsas ou quebradas ao banco.
 #Experiência com react
 React entrou na minha vida em 2022, lutando para ser frontend, mas atuando com fullstack fica dificil me dedicar 
 a uma tecnologia apenas. Porém vi o react dando pulos enormes e comecei nme arristar. 
+
 ## Projetos que participei com react<br/>
 Recentemente fui chamando para trabalhar de forma PJ em uma holding, e fiz parte da conclusão de um dos site deles.
 <br/>
 Site da empresa vidalink: https://vidalink.net/ .
-Fui responsável por ajudar no efeito de entrada pra ter mais aumotização, pelas páginas serviços e parceiros, contato( alinhamento apenas) 
-e projetos, no qual ajudei a realizar a lógica para pegar os pdfs.
+Fui responsável por ajudar com o video de entrada buscar mais rapidez em mobile e a decifrar o codigo, também pelas páginas : serviços, 
+parceiros, contato e projetos, no qual ajudei a realizar a lógica para pegar os pdfs, estilizar os textos, e a criar o conteudo.
 
 
 # Resultado final
