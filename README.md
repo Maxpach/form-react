@@ -56,5 +56,5 @@ e projetos, no qual ajudei a realizar a lógica para pegar os pdfs.
 ![image](https://user-images.githubusercontent.com/32625973/162633486-65d372cb-bf52-4c5d-86d3-f5e37f970599.png)
 
 # Me dê uma chance !!!
-Creio que com um minimo de prática e estudo faço muito mais do que eu apresentei.
+A prátca leva a perfeição, espero poder ter mais contato com a linguagem e a fazer parte da sua equipe.
 ## Abraços.
