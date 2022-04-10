@@ -1,3 +1,22 @@
+# Como instalar de forma local?
+1° - Primeiro definir uma IDE, que no meu caso usei VScode, sugiro usar-lo também, vai permirtir que use umas extenções apenas para o react.
+
+2° - Instalado o Node.js, que vai te permitir rodar o projeto pelo o npm.
+
+No diretório do projeto, dentro do terminal execute:
+
+### npm start
+Vai rodar o codigo e abrir de forma altomática na porta 3000 do localhost. Caso não abra acesse: Open http://localhost:3000 to view it in your browser.
+Lá vocês podem fazer seus testes.
+
+### Estilo da Página
+Usei um bacana, se chama Water.css : https://watercss.kognise.dev/ Apenas usei a CDN e linkei no html do projeto.
+<br/>
+<br/>
+<br/>
+<br/>
+# Docmentação oficial abaixo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
