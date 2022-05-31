@@ -59,6 +59,6 @@ e a criar o conteudo para todas elas, menos em projetos, que já haviam.
 # Resultado final
 ![image](https://user-images.githubusercontent.com/32625973/162633486-65d372cb-bf52-4c5d-86d3-f5e37f970599.png)
 
-# !!! Me dê uma chance !!!
+# :(
 
 ## Abraços.
